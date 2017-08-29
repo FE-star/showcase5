@@ -30,3 +30,7 @@ template string -> template function -> html string
 ```
 
 * 试着解释下那段正则是啥意思？
+
+### 模版的出现体现了什么？
+
+> DOM API 强大但不好维护，前端做了那么多 View 相关的库本质上就是为了屏蔽底层 DOM 操作
