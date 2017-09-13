@@ -1,0 +1,18 @@
+{
+  "name": "common-chunks",
+  "version": "0.0.1",
+  "description": "common chuks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.6"
+  }
+}
