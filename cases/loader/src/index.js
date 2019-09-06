@@ -1,5 +1,5 @@
 export default class HelloWorld {
-  salute = () => {
+  salute () {
     return console.log('Hello World!');
   }
 }
